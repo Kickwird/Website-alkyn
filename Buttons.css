@@ -1,0 +1,103 @@
+.Official{
+display: block;
+font-family: arial;
+margin: auto;
+margin-top: 125px;
+background-color: white;
+border: none;
+font-size: 33px;
+margin-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+line-height: 23px;
+}
+
+.Website {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.ImgMain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 420px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.musicall {
+    text-align: center;
+    margin-top: 0px;
+}
+.music { 
+    cursor: crosshair;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-radius: 50px;
+    font-size: 33px;
+    transition: background-color 0.2s;
+    transition: color 0.2s;
+    transition: font-size 0.4s;
+    margin-bottom: 2px;
+}
+.Times {
+    font-style: italic;
+}
+.music:hover {
+    background-color: black;
+    color: rgb(0, 255, 13);
+    font-size: 35px;
+}
+.instagram2 {
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+.instagram {
+    cursor: crosshair;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-radius: 50px;
+    font-size: 33px;
+    font-family: arial;
+    transition: background-color 0.2s;
+    transition: color 0.2s;
+    transition: font-size 0.4s;
+    margin-bottom: 2px;
+}
+.instagram:hover {
+    background-color: black;
+    color: rgb(0, 255, 13);
+    font-size: 35px;
+}
+.youtube2 {
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+.youtube {
+    cursor: crosshair;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-radius: 50px;
+    font-size: 33px;
+    font-family: arial;
+    transition: background-color 0.2s;
+    transition: color 0.2s;
+    transition: width 0.4s;
+    transition: height 0.4s;
+    transition: font-size 0.4s;
+}
+.youtube:hover {
+    background-color: black;
+    color: rgb(0, 255, 13);
+    font-size: 35px;
+}
