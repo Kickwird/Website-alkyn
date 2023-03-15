@@ -30,14 +30,15 @@ line-height: 23px;
 }
 .musicall {
     text-align: center;
-    margin-top: 0px;
+    margin-top: -1px;
+    margin-right: 318px;
 }
 .music { 
     cursor: crosshair;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    border: solid;
-    border-radius: 50px;
+    border: none;
+    border-radius: 200px;
     font-size: 33px;
     transition: background-color 0.2s;
     transition: color 0.2s;
@@ -54,15 +55,16 @@ line-height: 23px;
 }
 .instagram2 {
     text-align: center;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: -42px;
+    margin-left: 15px;
     margin-bottom: 0px;
 }
 .instagram {
+    display: inline-block;
     cursor: crosshair;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    border: solid;
+    border: none;
     border-radius: 50px;
     font-size: 33px;
     font-family: arial;
@@ -79,17 +81,18 @@ line-height: 23px;
 .youtube2 {
     text-align: center;
     margin-top: 0px;
-    margin-left: 0px;
+    margin-left: -265px;
     margin-bottom: 0px;
 }
 .youtube {
     cursor: crosshair;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    border: solid;
+    border: none;
     border-radius: 50px;
     font-size: 33px;
     font-family: arial;
+    font-style: italic;
     transition: background-color 0.2s;
     transition: color 0.2s;
     transition: width 0.4s;
@@ -100,4 +103,78 @@ line-height: 23px;
     background-color: black;
     color: rgb(0, 255, 13);
     font-size: 35px;
+}
+.photos2 {
+    text-align: center;
+    margin-top: -40px;
+    margin-left: 70px;
+    margin-bottom: 0px;
+}
+.PHOTOS {
+    cursor: crosshair;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 50px;
+    font-size: 33px;
+    font-family: arial;
+    transition: background-color 0.2s;
+    transition: color 0.2s;
+    transition: width 0.4s;
+    transition: height 0.4s;
+    transition: font-size 0.4s;
+}
+.PHOTOS:hover {
+    background-color: black;
+    color: rgb(0, 255, 13);
+    font-size: 35px;
+}
+.allbuttons {
+    margin-left: 100px;
+}
+.home2 {
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 0px;
+}
+.home {
+    font-family: arial;
+    font-size: 90px;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.ball-chill {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 240px;
+}
+.italy-home {
+    font-style: italic;
+}
+.jackson {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 300px;
+    margin-top: 20px;
+}
+.face-natural {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 370px;
+    margin-top: 20px;
+}
+.campus {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 185px;
+    margin-top: 20px;
 }
