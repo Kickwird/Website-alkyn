@@ -134,47 +134,25 @@ line-height: 23px;
 }
 .home2 {
     text-align: center;
-    margin-top: -25px;
+    margin-top: 0px;
     margin-bottom: 0px;
 }
 .home {
     font-family: arial;
-    font-size: 90px;
+    font-size: 100px;
     text-decoration: none;
     display: inline-block;
     color: black;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0px;
+    margin-top: -0px;
     margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
 }
-.ball-chill {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 240px;
-}
-.italy-home {
-    font-style: italic;
-}
-.jackson {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 300px;
-    margin-top: 20px;
-}
-.face-natural {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 370px;
-    margin-top: 20px;
-}
-.campus {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 185px;
-    margin-top: 20px;
+.body {
+    padding: 0px;
+    margin: 8px;
 }
