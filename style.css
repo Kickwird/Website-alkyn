@@ -1,0 +1,108 @@
+.aeden-natural {
+    height: 533px;
+}
+.bank-vecht {
+    height: 533px
+}
+.cowboy-storm {
+    height: 533px
+}
+.CRT-ravi {
+    height: 517px;
+}
+.gidi-wide {
+    height: 517px
+}
+.gideon-smooth {
+    height: 517px;
+}
+.glow-aeden {
+    height: 556px;
+}
+.green-howen {
+    height: 556px
+}
+.storm-flower {
+    height: 556px;
+}
+.jessie-warm {
+    height: 556px;
+    width: 370px;
+}
+.rtc-gideon {
+    height: 408px;
+}
+.straight-music {
+    height: 408px;
+}
+.silo-gideon {
+    height: 408px;
+}
+.skate-gideon {
+    height: 408px;
+}
+.train-men {
+    height: 408px;
+}
+.swag-aeden {
+    height: 500px;
+}
+.tram-walk {
+    height: 500px;
+}
+
+@media only screen and (max-width: 375px) {
+    .aeden-natural {
+        height: 100px;
+    }
+    .bank-vecht {
+        height: 100px
+    }
+    .cowboy-storm {
+        height: 100px;
+        width: 147px;
+    }
+    .CRT-ravi {
+        height: 517px;
+    }
+    .gidi-wide {
+        height: 517px
+    }
+    .gideon-smooth {
+        height: 517px;
+    }
+    .glow-aeden {
+        height: 556px;
+    }
+    .green-howen {
+        height: 556px
+    }
+    .storm-flower {
+        height: 556px;
+    }
+    .jessie-warm {
+        height: 556px;
+        width: 370px;
+    }
+    .rtc-gideon {
+        height: 408px;
+    }
+    .straight-music {
+        height: 408px;
+    }
+    .silo-gideon {
+        height: 408px;
+    }
+    .skate-gideon {
+        height: 408px;
+    }
+    .train-men {
+        height: 408px;
+    }
+    .swag-aeden {
+        height: 500px;
+    }
+    .tram-walk {
+        height: 500px;
+    }
+}
